@@ -18,7 +18,7 @@ Curious about how "Vibrant Orange" could brighten up your day? Check out these c
 
 Prepare for a spectrum overload. Your logs will never be the same.
 
-![How to Use These Colors](./assets/usage-example.png)
+![How to Use These Colors](./assets/useage-example.png)
 
 And that's just the beginning. Once you've added Chalk-Pantone to your project, your terminal will be the hippest spot in your workspace.
 
