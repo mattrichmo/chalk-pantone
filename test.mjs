@@ -8,7 +8,9 @@ export const showColors = () => {
     for (const color in chalk.pantone) {
         colors += chalk.pantone[color](color) + ' ';
     }
+    console.log(`\n\n\n\n`)
     console.log(colors);
+    console.log(`\n\n\n\n`)
 }
 
 showColors();
