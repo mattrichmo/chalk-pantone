@@ -14,7 +14,7 @@ Just import 'chalk-pantone' and let the color games begin. From "Sassy Pink" to 
 
 Curious about how "Vibrant Orange" could brighten up your day? Check out these color samples and usage examples. It's like your terminal had a happy little accident with a Pantone chart.
 
-![Pantone Colors Sample](./assets/colours.png)
+![Pantone Colors Sample](./assets/colours2.png)
 
 Prepare for a spectrum overload. Your logs will never be the same.
 
